@@ -2,7 +2,7 @@
 The random countries for team in Age Of Empires game
 ## Install
 ```$xslt
-npm i aoerandom
+npm i thanhttt
 ```
 
 ## Use 
