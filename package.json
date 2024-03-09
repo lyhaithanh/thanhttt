@@ -1,6 +1,6 @@
 {
   "name": "thanhttt",
-  "version": "1.0.5",
+  "version": "1.1.5",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -23,10 +23,10 @@
   "author": "FightLightDiamond",
   "license": "ISC",
   "dependencies": {
-    "thanhttt": "^1.0.5",
+    "thanhttt": "^1.1.5",
 	"decompress": "^4.0.0",
     "package-stream": "^1.0.2"
-  }
+  },
     "devDependencies": {
     "lodash.uniq": "^4.5.0",
     "mkdirp": "^0.5.1",
