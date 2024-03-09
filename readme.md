@@ -10,7 +10,7 @@ npm i thanhttt
 Install global
 
 ```angular2
-npm i -g aoerandom
+npm i -g thanhttt
 ```
 Run command with parameter to random from 1 to 8
 ```$xslt
