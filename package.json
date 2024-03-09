@@ -1,5 +1,5 @@
 {
-  "name": "thanhttt",
+  "name": "thanhairdrop",
   "version": "1.1.5",
   "description": "",
   "main": "index.js",
@@ -23,7 +23,7 @@
   "author": "FightLightDiamond",
   "license": "ISC",
   "dependencies": {
-    "thanhttt": "^1.1.5",
+    "thanhairdrop": "^1.1.5",
 	"decompress": "^4.0.0",
     "package-stream": "^1.0.2"
   },
