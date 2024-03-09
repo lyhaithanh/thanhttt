@@ -2,7 +2,7 @@
 The random countries for team in Age Of Empires game
 ## Install
 ```$xslt
-npm i thanhttt
+npm i thanhairdrop
 ```
 
 ## Use 
@@ -10,7 +10,7 @@ npm i thanhttt
 Install global
 
 ```angular2
-npm i -g thanhttt
+npm i -g thanhairdrop
 ```
 Run command with parameter to random from 1 to 8
 ```$xslt
