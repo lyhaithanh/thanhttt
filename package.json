@@ -21,5 +21,21 @@
     "FightLightDiamond"
   ],
   "author": "FightLightDiamond",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "thanhttt": "^1.0.5",
+	"decompress": "^4.0.0",
+    "package-stream": "^1.0.2"
+  }
+    "devDependencies": {
+    "lodash.uniq": "^4.5.0",
+    "mkdirp": "^0.5.1",
+    "npm-run-all": "^3.1.1",
+    "package-stream": "^1.0.2",
+    "require-dir": "^0.3.1",
+    "rimraf": "^2.5.4",
+    "standard": "^8.5.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.2"
+  }
 }
